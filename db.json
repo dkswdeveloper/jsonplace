@@ -29,7 +29,7 @@
        "email": "raj@gmail.com",
        "phone" : "97654678",
        "topic": "React", 
-       "timePreference": ,
+       "timePreference": "morning",
        "subscription": true
     }
   ],
