@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Dinesh Kumar", 
+       "email": "dk@gmail.com",
+       "phone" : "2932932423",
+       "topic": "Angular", 
+       "timePreference": "morning",
+       "subscription": true
+    },
+     {
+      "name": "Sumit", 
+       "email": "sumit@test.com",
+       "phone" : "9897677880",
+       "topic": "Vue", 
+       "timePreference": "evening",
+       "subscription": false
+    },
+     {
+      "name":"Geeta", 
+       "email": "gt@gmailc.om",
+       "phone" : "898989890",
+       "topic": "Angular", 
+       "timePreference": "evening",
+       "subscription": true
+    },
+     {
+      "name": "Rajan Gupta", 
+       "email": "raj@gmail.com",
+       "phone" : "97654678",
+       "topic": "React", 
+       "timePreference": ,
+       "subscription": true
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
