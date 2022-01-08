@@ -39,5 +39,24 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "accounts" : [
+    {
+      "id" : 11223344,
+      "acno" : 11223344,
+      "userid" : 1,
+      "balance": 4556.36,
+      "type" : "saving"
+    },
+    {
+      "id" : 11223345,
+      "acno" : 11223345,
+      "userid" : 1,
+      "balance": 4556.36,
+      "type" : "fd",
+      "maturitydate" : "2022-05-04",
+      "interestrate" : 6.4
+    }
+   ]
+    
 }
